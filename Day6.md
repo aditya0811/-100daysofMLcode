@@ -7,3 +7,14 @@ https://www.r-bloggers.com/using-and-abusing-data-visualization-anscombes-quarte
 ## Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing
 
 https://www.autodeskresearch.com/publications/samestats
+
+## Ordinal Data
+A well-known example of ordinal data is the Likert scale. An example of a Likert scale is:[3]:685
+
+<ul>
+<ls>Like-1	</ls>
+<ls>Like Somewhat-2</ls>
+<ls>Neutral	Dislike-3</ls>
+<ls>Somewhat-4</ls>
+<ls>Dislike-5</ls>
+</ul>
