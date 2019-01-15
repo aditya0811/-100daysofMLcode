@@ -9,12 +9,12 @@ https://www.r-bloggers.com/using-and-abusing-data-visualization-anscombes-quarte
 https://www.autodeskresearch.com/publications/samestats
 
 ## Ordinal Data
-A well-known example of ordinal data is the Likert scale. An example of a Likert scale is:[3]:685
+A well-known example of ordinal data is the Likert scale. An example of a Likert scale is
 
-<ul>
-<ls>Like-1	</ls>
-<ls>Like Somewhat-2</ls>
-<ls>Neutral	Dislike-3</ls>
-<ls>Somewhat-4</ls>
-<ls>Dislike-5</ls>
-</ul>
+
+Like-1,	
+Like Somewhat-2,
+Neutral	Dislike-3,
+Somewhat-4,
+Dislike-5,
+
